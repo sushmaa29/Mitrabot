@@ -107,5 +107,3 @@ Pull requests are welcome!
 ---
 
 > 💙 _MitraBot is not a replacement for professional mental health care, but a companion that listens and supports._ If you or someone you know is in crisis, please seek help from professionals or contact emergency services.
-# Mitrabot
-AI-powered mental health chatbot.
